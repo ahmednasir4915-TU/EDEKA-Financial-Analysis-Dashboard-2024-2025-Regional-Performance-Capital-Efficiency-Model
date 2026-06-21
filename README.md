@@ -1,2 +1,2 @@
-# EDEKA-Financial-Analysis-Dashboard-2024-2025-Regional-Performance-Capital-Efficiency-Model
-Financial analysis of EDEKA's 5 regional wholesale entities (2024–2025) — revenue, CapEx intensity, and YoY growth, built with live Excel formulas over a 12-month ledger dataset.
+EDEKA Regional Financial Analysis (2024–2025)
+A financial controlling model analyzing revenue and capital expenditure across EDEKA's five regional wholesale cooperatives — Minden-Hannover, Südwest, Nordbayern-Sachsen-Thüringen, Rhein-Ruhr, and Südbayern. Built on a 12-month transactional ledger, the model calculates consolidated revenue, CapEx intensity, and YoY growth using live Excel formulas (SUMIFS-based), with a dashboard summarizing regional performance and key financial metrics for FY24–FY25.
